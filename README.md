@@ -9,7 +9,7 @@
 
 支持使用 Mediapipe 捕捉人体骨骼和手势动作，控制虚拟角色的表现。
 
-![项目图片](https://link-to-image.com)  <!-- 替换为你的图片链接 -->
+![项目图片](./pic_shown/example_finger&expression.gif)  
 
 
 ## 快速开始
