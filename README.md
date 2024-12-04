@@ -1,7 +1,7 @@
 
 ---
 
-# Unity-Mediapipe-3DAvatar-MotionCaptureDriven
+# Unity-Mediapipe-Avatar-3DMotionCaptureDriven
 
 ## Python,C#
 
