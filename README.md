@@ -26,7 +26,7 @@
 - Python 3.8+
 - Mediapipe
 - 相关的硬件支持，如 WebCam 或其它摄像头设备。
-- 具体通过requirements.txt配置环境
+- 具体通过`requirements.txt`配置环境
 
 ### 安装步骤
 
