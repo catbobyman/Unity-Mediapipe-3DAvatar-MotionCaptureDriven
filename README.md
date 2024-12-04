@@ -109,13 +109,17 @@ MocapMod_Mediapipe
 ## Google开发者文档
 [mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
-## mediapipe 脸部/驱赶/手部 landmark标图
+## mediapipe 脸部/身体/手部 landmark标图
+
 ### face
-![face](./pic_shown/face_landmark.png)
+<img src="./pic_shown/face_landmark.png" width="500" height="500">
+
 ### pose
-![pose](./pic_shown/pose_landmark.png)
+<img src="./pic_shown/pose_landmark.png" width="500" height="500">
+
 ### hand
-![hand](./pic_shown/hand-landmark.png)
+<img src="./pic_shown/hand-landmarks.png" width="500" height="500">
+
 
 
 
