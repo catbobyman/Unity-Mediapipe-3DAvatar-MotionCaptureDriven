@@ -1,4 +1,4 @@
-![face_landmark](https://github.com/user-attachments/assets/691017a2-c9f8-4df9-b70b-a0d43334c8b6)
+
 ---
 
 # Unity-Mediapipe-Avatar-3DMotionCaptureDriven
@@ -105,6 +105,13 @@ MocapMod_Mediapipe
 ## Google开发者文档
 [mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
+## mediapipe 脸部/驱赶/手部 landmark标图
+### face
+![face](./pic_shown/face_landmark.png)
+### pose
+![pose](./pic_shown/pose_landmark.png)
+### hand
+![hand](./pic_shown/hand-landmark.png)
 
 
 
