@@ -67,21 +67,44 @@
 
 ```bash
 Unity-Mediapipe-Avatar-3DMotionCaptureDriven/
-│
-├── Assets/                 # Unity 项目资源文件
-│   ├── Prefabs/            # 预设虚拟角色
-│   ├── Scripts/            # Unity 脚本文件
-│   └── Textures/           # 贴图资源
-│
-├── Python/                 # Python 环境与 Mediapipe 配置
-│   └── motion_capture.py   # Mediapipe 捕捉脚本
-│
-└── README.md               # 项目说明文件
+
+AvartarMocap
+├── .plastic                 # Version control folder (can be ignored)
+├── Assets                   # Main folder for Unity project assets
+│   ├── 3DModels             # 3D model files
+│   ├── Plugins              # Plugins and external libraries
+│   ├── Scenes               # Unity scene files
+│   ├── Scripts              # Custom scripts and code
+│   ├── TextMesh Pro         # TextMesh Pro-related resources
+│   ├── _PoiyomiShaders      # Poiyomi shaders and materials
+│   └── sources              # Additional resources (specific to your project)
+│   ...
+
+MocapMod_Mediapipe
+├── Detector/             # 检测的脚本
+    ├── FaceLandmarkDetector.py 
+    └── PoseLandmarkDetector.py 
+    └── HandLandmarkDetector.py
+    └── HandLandmarkDetector_New.py
+├── Models/               # 存储模型
+    ├── face_landmarker_v2_with_blendshapes.task    
+    └── hand_landmarker.task 
+    └── pose_landmarker_full.task
+├── .gitattributes       
+├── DataController.py     
+├── LICENSE               
+├── ResultToJson.py       # 数据转换为 JSON
+├── UDPServer.py          # UDP 通信模块
+├── UDPServer_direct.py   # 直接式 UDP 通信模块
+├── VisualUtilities.py    # 可视化工具
+├── config.py             # 配置文件
+├── main.py               # 主运行脚本
+├── requirements.txt      # 项目依赖
 ```
 
-## 开发者文档
+## Google开发者文档
+[mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
-### 设置 Mediapipe 环境
 
 
 
