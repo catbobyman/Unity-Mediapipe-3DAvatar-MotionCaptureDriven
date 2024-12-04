@@ -1,7 +1,7 @@
 
 ---
 
-# Unity-Mediapipe-Avatar-3DMotionCaptureDriven
+# Unity-Mediapipe-3DAvatar-MotionCaptureDriven
 
 ## 项目简介
 
