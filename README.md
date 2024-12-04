@@ -9,11 +9,13 @@
 
 支持使用 Mediapipe 捕捉人体骨骼和手势动作，控制虚拟角色的表现。
 
+## 结果展示
+
+![项目图片](./pic_shown/example_finger&expression.gif)  
+
 ### 关联项目
 
 #### python动捕模块：[MediapipePython-3DMotionCapture-Mod](https://github.com/catbobyman/MediapipePython-3DMotionCapture-Mod.git)
-
-![项目图片](./pic_shown/example_finger&expression.gif)  
 
 
 ## 快速开始
