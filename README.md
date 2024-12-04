@@ -68,27 +68,31 @@
 ```bash
 Unity-Mediapipe-Avatar-3DMotionCaptureDriven/
 
-AvartarMocap
-├── .plastic                 # Version control folder (can be ignored)
-├── Assets                   # Main folder for Unity project assets
-│   ├── 3DModels             # 3D model files
-│   ├── Plugins              # Plugins and external libraries
-│   ├── Scenes               # Unity scene files
-│   ├── Scripts              # Custom scripts and code
-│   ├── TextMesh Pro         # TextMesh Pro-related resources
-│   ├── _PoiyomiShaders      # Poiyomi shaders and materials
-│   └── sources              # Additional resources (specific to your project)
-│   ...
+AvartarMocap               
+├── Assets                  
+   ├── 3DModels             
+   ├── Plugins              
+   ├── Scenes              
+   ├── Scripts
+      ├── BoneNode.cs
+      ├── Face.cs
+      ├── GameController.cs
+      ├── Hand.cs
+      ├── Pose.cs
+      ├── UDPDataManager.cs
+      └── UpdateMethod.md
+│ ...
+
 
 MocapMod_Mediapipe
 ├── Detector/             # 检测的脚本
     ├── FaceLandmarkDetector.py 
-    └── PoseLandmarkDetector.py 
-    └── HandLandmarkDetector.py
+    ├── PoseLandmarkDetector.py 
+    ├── HandLandmarkDetector.py
     └── HandLandmarkDetector_New.py
 ├── Models/               # 存储模型
     ├── face_landmarker_v2_with_blendshapes.task    
-    └── hand_landmarker.task 
+    ├── hand_landmarker.task 
     └── pose_landmarker_full.task
 ├── .gitattributes       
 ├── DataController.py     
