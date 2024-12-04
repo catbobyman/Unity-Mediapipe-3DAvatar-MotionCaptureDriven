@@ -54,6 +54,10 @@
    - magica cloth
    - Animation Rigging
    ```
+   - shader
+   ```
+   poiyomi shader
+   ```
      
 
 4. 启动摄像头：
