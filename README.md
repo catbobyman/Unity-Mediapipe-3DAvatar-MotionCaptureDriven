@@ -1,4 +1,4 @@
-
+![face_landmark](https://github.com/user-attachments/assets/691017a2-c9f8-4df9-b70b-a0d43334c8b6)
 ---
 
 # Unity-Mediapipe-Avatar-3DMotionCaptureDriven
@@ -56,11 +56,11 @@
 
 ### 示例截图和动图
 
-#### 1. 动作捕捉与虚拟角色展示
-![捕捉效果](https://link-to-gif.com)
+#### 1. 手部与躯干：
+![捕捉效果](./pic_shown/example_finger&expression.gif)
 
-#### 2. 实时同步演示
-![实时同步演示](https://link-to-gif.com)
+#### 2. 面部表情：
+![实时同步演示](./pic_shown/expression.gif)
 
 
 ## 项目结构
