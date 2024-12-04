@@ -112,13 +112,13 @@ MocapMod_Mediapipe
 ## mediapipe 脸部/身体/手部 landmark标图
 
 ### face
-<img src="./pic_shown/face_landmark.png" width="500" height="500">
+<img src="./pic_shown/face_landmark.png" width="300" height="300">
 
 ### pose
-<img src="./pic_shown/pose_landmark.png" width="500" height="500">
+<img src="./pic_shown/pose_landmark.png" width="300" height="300">
 
 ### hand
-<img src="./pic_shown/hand-landmarks.png" width="500" height="500">
+<img src="./pic_shown/hand-landmarks.png" width="300" height="150">
 
 
 
