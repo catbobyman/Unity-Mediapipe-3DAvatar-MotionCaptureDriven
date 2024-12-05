@@ -9,7 +9,7 @@
 
 `Unity-Mediapipe-Avatar-3DMotionCaptureDriven` 是一个基于 **Mediapipe-python** 和 **Unity 3D** 技术的虚拟角色动作捕捉系统。通过Mediapipe-Python捕捉用户的动作并驱动 Unity 中的虚拟角色，实现高效的实时 3D 动作捕捉体验。
 
-支持使用 Mediapipe 捕捉人体骨骼和手势动作，控制虚拟角色的表现。
+支持使用 Mediapipe 捕捉脸部表情+人体骨骼+手势动作，控制虚拟角色的表现。
 
 ## 结果展示
 
