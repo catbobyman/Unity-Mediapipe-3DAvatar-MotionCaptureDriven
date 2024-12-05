@@ -40,17 +40,22 @@
 1. 克隆该仓库：
    ```bash
    git clone https://github.com/catbobyman/Unity-Mediapipe-Avatar-3DMotionCaptureDriven.git
+   
    ```
-2. 配置Mediapipe-python运行环境：
+2. 打开python项目：
+   
+   - 打开IDE，打开MocapMod_Mediapipe文件夹
+   
+3. 配置Mediapipe-python运行环境：
    ```
    pip install -r requirements.txt
    ```
 
 
-2. 导入 Unity 项目：
-   - 打开 Unity Hub，点击“添加项目”，选择 `Unity-Mediapipe-Avatar-3DMotionCaptureDriven` 文件夹。
+4. 导入 Unity 项目：
+   - 打开 Unity Hub，点击“添加项目”，选择 `AvartarMocap` 文件夹。
   
-3. 安装依赖：
+5. 安装依赖：
    - 在 Unity 编辑器中，确保所有必要的插件已安装
    - 必要unity插件:
    ```
@@ -59,16 +64,16 @@
    - magica cloth
    - Animation Rigging
    ```
-   - shader
+   - shader：
    ```
    poiyomi shader
    ```
      
 
-4. 启动摄像头：
+6. 启动摄像头：
    - 确保启动摄像头应用，确保它能够捕捉到你正在进行的动作。
 
-6. 运行项目：
+7. 运行项目：
    - 在 Unity 中点击“播放”按钮，观察虚拟角色如何跟随你实际的动作。
 
 ### 示例截图和动图
